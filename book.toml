@@ -1,0 +1,5 @@
+[book]
+authors = ["beginner-rust"]
+language = "en"
+multilingual = false
+src = "src"
