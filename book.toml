@@ -3,3 +3,6 @@ authors = ["beginner-rust"]
 language = "en"
 multilingual = false
 src = "src"
+[output.html.fold]
+enable = true
+level = 0
